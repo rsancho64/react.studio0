@@ -44,10 +44,6 @@ sudo n latest ## 21.6.0
 
 - [ ] futuro: ¿tener ambos e instalar versiones node con nvm y conmutarlas con n?
 
-### node y nodex TODO
-
-node ¿no hace falta para javascript en lado cliente?
-
 ## Algunas extensiones
 
 leer [esto](https://www.freecodecamp.org/espanol/news/que-es-linting-y-eslint/)
@@ -128,6 +124,12 @@ Build too **from scratch** (y subir a un repo):
 - [ ] the [tic-tac-toe example](https://react.dev/learn/tutorial-tic-tac-toe)
 - [ ] the [fruits store example](https://react.dev/learn/thinking-in-react)
   
-## NEXT
+## NEXT steps
 
-[start-a-new-react-project](https://react.dev/learn/start-a-new-react-project)
+- We need a framework, really? [**YES**](https://react.dev/learn/start-a-new-react-project#can-i-use-react-without-a-framework)
+- [start-a-new-react-project](https://react.dev/learn/start-a-new-react-project)
+
+
+
+
+
