@@ -122,6 +122,8 @@ Dentro de un marcado JSX: escape de datos (acceso a valores js) con curly bracke
 
 Build too **from scratch** (y subir a un repo):
 - [ ] the [tic-tac-toe example](https://react.dev/learn/tutorial-tic-tac-toe)
+  - // intro to react concepts: *element*, *component*, *accesory* ; *state*. 
+  - [ ] try now Thinking in React( see the same concepts building a UI app )
 - [ ] the [fruits store example](https://react.dev/learn/thinking-in-react)
   
 ## NEXT steps
