@@ -121,10 +121,8 @@ Dentro de un marcado JSX: escape de datos (acceso a valores js) con curly bracke
 - [ ] responsividad con un event-handler
 
 Build too **from scratch** (y subir a un repo):
-- [ ] the [tic-tac-toe example](https://react.dev/learn/tutorial-tic-tac-toe)
-  - // intro to react concepts: *element*, *component*, *accesory* ; *state*. 
-  - [ ] try now Thinking in React( see the same concepts building a UI app )
-- [ ] the [fruits store example](https://react.dev/learn/thinking-in-react)
+- [ ] the [tic-tac-toe example](https://react.dev/learn/tutorial-tic-tac-toe) // intro 2 react concepts: **element** + **component** + **property** + **state**. 
+- [ ] the [fruits store example](https://react.dev/learn/thinking-in-react) ( to see the same concepts building a UI app )
   
 ## NEXT steps
 
